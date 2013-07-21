@@ -12,6 +12,7 @@ Modules has following parts
 
 3)top_ten.py:- top_ten.py finds top ten hashtags in tweets. 
 	Command to run:- python top_ten.py input.txt
+
 4)happiest_state.py:- happiest_state.py is used to find happiest state from tweet
         Command to run:- python happiest_state.py input.txt
 
