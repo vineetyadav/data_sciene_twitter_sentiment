@@ -1,7 +1,6 @@
 Twitter_sentiment module is used to find sentiment of twitter 
 Modules uses two input files 
-AIFNN-111.txt and input.txt 
-AIFFN-111.txt is sentiment dict. and input.txt contains tweet input. 
+AIFNN-111.txt and input.txt.  AIFFN-111.txt is sentiment dict and input.txt contains  input tweets. 
 Modules has following parts 
 
 1)tweet_sentiment.py:- tweet_sentiment compute sentiment of tweet. 
